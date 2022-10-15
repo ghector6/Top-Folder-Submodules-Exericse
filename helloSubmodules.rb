@@ -1,3 +1,3 @@
 greeting = "Hello Submodules from top folder!!"
 
-puts greeting
+puts greeting * 6
