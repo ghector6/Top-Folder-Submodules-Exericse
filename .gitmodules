@@ -1,0 +1,3 @@
+[submodule "Sub-folder-Submodules-Exercises"]
+	path = Sub-folder-Submodules-Exercises
+	url = git@github.com:ghector6/Sub-folder-Submodules-Exercises.git
