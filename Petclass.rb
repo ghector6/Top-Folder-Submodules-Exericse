@@ -5,3 +5,4 @@ end
 debussy = Pet.new
 debussy.name = "Debussy"
 puts debussy.name
+puts debussy.color = "White"
